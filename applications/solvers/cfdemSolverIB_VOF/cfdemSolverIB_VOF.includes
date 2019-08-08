@@ -1,0 +1,5 @@
+/home/anu/OpenFOAM/OpenFOAM-5.x/src/OpenFOAM/lnInclude
+/home/anu/OpenFOAM/OpenFOAM-5.x/src/finiteVolume/lnInclude
+/home/anu/OpenFOAM/OpenFOAM-5.x/src/dynamicMesh/dynamicFvMesh/lnInclude
+/home/anu/OpenFOAM/OpenFOAM-5.x/src/transportModels/incompressible/lnInclude
+.

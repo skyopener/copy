@@ -1,0 +1,10 @@
+#cfdemSolverPiso/dir
+#cfdemSolverIB/dir
+#cfdemSolverPisoScalar/dir
+#cfdemSolverPisoSTM/dir
+#cfdem_interDyMFoam/dir
+#cfdem_interDyMFoam_v1/dir
+#cfdem_interDyMFoam_v2/dir
+#cfdem_interDyMFoamPIMPLE/dir
+#cfdem_interDyMFoamPIMPLE_5x/dir
+cfdemSolverIB_VOF/dir
